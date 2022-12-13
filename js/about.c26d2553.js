@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmortontool"]=self["webpackChunkmortontool"]||[]).push([[443],{7381:function(n,t,o){o.r(t),o.d(t,{default:function(){return f}});var r=o(3396);const u={class:"about"},a=(0,r._)("h1",null,"This is an about page",-1),e=[a];function s(n,t){return(0,r.wg)(),(0,r.iD)("div",u,e)}var c=o(89);const i={},l=(0,c.Z)(i,[["render",s]]);var f=l}}]);
+//# sourceMappingURL=about.c26d2553.js.map
